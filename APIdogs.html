@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>API Perros</title>
+  <link rel="stylesheet" href="./css/main.css">
+  <link rel="icon" href="./img/Chicho.png">
+</head>
+<body>
+  <h1>¡Encuentra tu raza de perro favorita!</h1>
+  <div class="dropdown">
+    <label for="breeds" class="botones">Selecciona una raza:</label>
+    <select id="breeds" class="botones" onchange="getDogByBreed()">
+      <option value="" class="botones">-- Elige una raza --</option>
+    </select>
+    <input type="button" id="mostrarTodo" value="Mostrar Todas las Razas" class="botones" onclick="showAllBreeds()">
+    <input type="button" value="Limpiar pantalla" class="botones" onclick="clearDogs()">
+  </div>
+  <div class="dog-container" id="dogContainer"></div>
+
+  <script src="./js/main.js"></script>
+
+  <footer class="pie">Para crear esta página se ha utilizado <a href="https://dog.ceo/dog-api/" target="_blank">Dog API®</a></footer>
+</body>
+</html>
