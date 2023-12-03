@@ -1,6 +1,6 @@
-# Dog Breed Image Viewer
+# Visor y buscador de fotografías de razas de perros
 
-<img src="./img/Chicho.png"/>Este proyecto es un visor de imágenes de razas de perros. Utiliza la API de Dog CEO para mostrar imágenes de diferentes razas de perros.
+<img src="./img/Chicho.png" style="width:30px; heigth: 30px"/> Este proyecto es un visor de imágenes de razas de perros. Utiliza la API de Dog CEO para mostrar imágenes de diferentes razas de perros.
 
 
 ## Funcionalidades
@@ -31,12 +31,12 @@ Para que la aplicación funcione sí que se necesita acceso a Internet para cons
 
 ## Créditos
 
-Este proyecto utiliza la [API de Dog CEO](https://dog.ceo/dog-api/) para obtener imágenes de razas de perros.
-El fondo de pantalla puede pertenecer a Microsoft Corporation. (Fondo de pantalla utilizado en la versión Windows XP y/o otras). Me es imposible comprobar la autoría.
-El logotipo utilizado (Chicho Terremoto, Dash Kappei en Japón) parece que fue creado por Suikoden77 (tampoco me es posible asegurar su autoría).
-Los derechos de imagen de la serie "Chicho Terremoto" pertenecen originalmente a la editorial Shueisha y al autor del manga, George Akiyama, también conocido como Hisashi Eguchi. Sin embargo, para obtener información precisa sobre los derechos actuales y su titularidad, se recomienda contactar directamente con Shueisha, la editorial responsable de la serie.
-Desarrollador:
-    -Luis Angel Alvarez
+* Este proyecto utiliza la [API de Dog CEO](https://dog.ceo/dog-api/) para obtener imágenes de razas de perros.
+* El fondo de pantalla puede pertenecer a Microsoft Corporation. (Fondo de pantalla utilizado en la versión Windows XP y/o otras). Me es imposible comprobar la autoría.
+* El logotipo utilizado (Chicho Terremoto, Dash Kappei en Japón) parece que fue creado por Suikoden77 (tampoco me es posible asegurar su autoría).
+* Los derechos de imagen de la serie "Chicho Terremoto" pertenecen originalmente a la editorial Shueisha y al autor del manga, George Akiyama, también conocido como Hisashi Eguchi. Sin embargo, para obtener información precisa sobre los derechos actuales y su titularidad, se recomienda contactar directamente con Shueisha, la editorial responsable de la serie.
+* Desarrollador:
+    <a href="https://www.linkedin.com/in/luis-angel-alvarez/">- Luis Angel Alvarez</a>
 
 ## Contribución
 
