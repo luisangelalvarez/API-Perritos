@@ -16,6 +16,7 @@
 2. **Ejecución:** Abre el archivo `index.html` en un navegador web.
 3. **Interacción:**
     - Selecciona una raza del menú desplegable para ver imágenes de esa raza.
+    - Tambien puedes hacer click en una foto para ver más imágenes de esa raza.
     - Haz clic en "Mostrar todas las razas" para ver una imagen de cada raza disponible.
     - "Limpiar pantalla" elimina todas las imágenes y reinicia la selección de razas.
 
