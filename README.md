@@ -30,7 +30,7 @@ Para que la aplicación funcione sí que se necesita acceso a Internet para cons
 - HTML
 - CSS
 - JavaScript
-- Figma <a href="https://www.figma.com/file/rWhyfPHk3p15lFpuR47uIB/Untitled?type=design&node-id=0%3A1&mode=design&t=O2qtr9EtrDpgHOFf-1" _blank>--></a>
+- Figma <a href="https://www.figma.com/file/rWhyfPHk3p15lFpuR47uIB/Untitled?type=design&node-id=0%3A1&mode=design&t=O2qtr9EtrDpgHOFf-1" target="_blank">--></a>
 
 ## Créditos
 
